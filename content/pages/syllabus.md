@@ -67,16 +67,159 @@ Plagiarism—use of another's intellectual work without acknowledgement—is a s
 Calendar
 --------
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Intro. to course and Galileo; activity with looking and relations of things | &nbsp; |
-| 2 | Activity with viewing geometrical relations; shaped mirrors and lenses | "Perspective Activity" assignment due |
-| 3 | Activity with lenses and materials/ Activity with Galileo's computing device. Visit to glass-blowing lab - to be scheduled during part of Ses #4, 5, and 7 | "Activity and Observing" assignment due |
-| 4 | Activity with lenses and light |  {{< br >}}{{< br >}} "Geometric Activities" assignment due {{< br >}}{{< br >}} Class Notes assignment due {{< br >}}{{< br >}}  |
-| 5 | Harvard instrument collection and Houghton Library, Harvard | "Responses to Galileo" assignment due |
-| 6 | Motion, sound and materials | "Excerpts on motion" assignment due |
-| 7 | Motion, sound, time explorations | "Reflecting on Galileo" assignment due |
-| 8 | MIT Museum visit | "Slide Rule" assignment due |
-| 9 | Ongoing explorations | &nbsp; |
-| 10 | Ongoing explorations (cont.) | &nbsp; |
-| 11 | Class sharing about explorations and relating to Galileo's story | Reflection paper due 2 days after Ses #11
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Intro. to course and Galileo; activity with looking and relations of things
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Activity with viewing geometrical relations; shaped mirrors and lenses
+{{< tdclose >}}
+{{< tdopen >}}
+"Perspective Activity" assignment due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Activity with lenses and materials/ Activity with Galileo's computing device. Visit to glass-blowing lab - to be scheduled during part of Ses #4, 5, and 7
+{{< tdclose >}}
+{{< tdopen >}}
+"Activity and Observing" assignment due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Activity with lenses and light
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+"Geometric Activities" assignment due
+
+Class Notes assignment due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Harvard instrument collection and Houghton Library, Harvard
+{{< tdclose >}}
+{{< tdopen >}}
+"Responses to Galileo" assignment due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Motion, sound and materials
+{{< tdclose >}}
+{{< tdopen >}}
+"Excerpts on motion" assignment due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Motion, sound, time explorations
+{{< tdclose >}}
+{{< tdopen >}}
+"Reflecting on Galileo" assignment due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+MIT Museum visit
+{{< tdclose >}}
+{{< tdopen >}}
+"Slide Rule" assignment due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Ongoing explorations
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Ongoing explorations (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Class sharing about explorations and relating to Galileo's story
+{{< tdclose >}}
+{{< tdopen >}}
+Reflection paper due 2 days after Ses #11
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
