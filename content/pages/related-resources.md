@@ -37,7 +37,7 @@ Slide Rule
 [Buying a Slide Rule](http://www.mccoys-kecatalogs.com/KECatalogs/HowToChoose/kehowtochoose_01.htm)  
 (Instructions for using and buying a slide rule)
 
-Slide Rule Instructions (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 4.9MB](http://www.oughtred.org/flyers/OS-ISRM_SlideRuleSeminar.pdf))  
+Slide Rule Instructions ([PDF - 4.9MB](http://www.oughtred.org/flyers/OS-ISRM_SlideRuleSeminar.pdf))  
 (Intro to using slide rule)
 
 [Slide Rules and Manuals](http://www.mccoys-kecatalogs.com/KECatalogs/HowToChoose/kehowtochoose_01.htm)  
@@ -90,9 +90,9 @@ Perspective
 
 [Perspective - Veltman](http://www.sumscorp.com/perspective/)
 
-Sources of Perspective - Veltman (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.7MB](http://www.sumscorp.com/img/file/2004_Sources_of_Perspective.pdf))
+Sources of Perspective - Veltman ([PDF - 1.7MB](http://www.sumscorp.com/img/file/2004_Sources_of_Perspective.pdf))
 
-Literature on Perspective - Veltman (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.1MB](http://www.sumscorp.com/img/file/2004_Literature_on_Perspective.pdf))
+Literature on Perspective - Veltman ([PDF - 2.1MB](http://www.sumscorp.com/img/file/2004_Literature_on_Perspective.pdf))
 
 Early Telescopes and Spectacles
 -------------------------------

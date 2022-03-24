@@ -237,9 +237,9 @@ Cavicchi, Elizabeth. "Perspectives on Science." _Perspectives on Science_ 14, no
 
 ———. "Charles Grafton Page's Experiment with a Spiral Conductor." _Technology and Culture_ 49, no. 4 (2008): 1097-3729.
 
-———. "Reflections on the Teaching of Gerbert of Aurillac." In _Orbe Novus_. Edited by C. Sigismondi. Rome, Italy: Universitalia, 2010, pp. 7-21. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 4.3MB](https://www.researchgate.net/publication/304159286_Reflections_on_the_Teaching_of_Gerbert_of_Aurillac))
+———. "Reflections on the Teaching of Gerbert of Aurillac." In _Orbe Novus_. Edited by C. Sigismondi. Rome, Italy: Universitalia, 2010, pp. 7-21. ([PDF - 4.3MB](https://www.researchgate.net/publication/304159286_Reflections_on_the_Teaching_of_Gerbert_of_Aurillac))
 
-———. "Activity inspired by Medieval Observers with Tubes." In _Orbe Novus_. Edited by C. Sigismondi. Rome, Italy: Universitalia, 2010, pp. 22-39. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 4.3MB](http://irsol.ch/costantino_sigismondi/OrbeNovus_volume2010.pdf))
+———. "Activity inspired by Medieval Observers with Tubes." In _Orbe Novus_. Edited by C. Sigismondi. Rome, Italy: Universitalia, 2010, pp. 22-39. ([PDF - 4.3MB](http://irsol.ch/costantino_sigismondi/OrbeNovus_volume2010.pdf))
 
 
 {{< tdclose >}}
