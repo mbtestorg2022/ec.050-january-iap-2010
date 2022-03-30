@@ -4,6 +4,7 @@ description: 'This resource contains the information about the reading on Galile
   biography, string, mirrors, paper and straws. '
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/ec-050-recreate-experiments-from-history-inform-the-future-from-the-past-galileo-january-iap-2010/4d7d33850070a869013c75c2457a3d82_MITEC_050IAP10_sum02.pdf
 file_type: application/pdf
+parent_uid: 47611357-3261-035f-e662-d8aab1756348
 resourcetype: Document
 title: Summary 2
 uid: 4d7d3385-0070-a869-013c-75c2457a3d82

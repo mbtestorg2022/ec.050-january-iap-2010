@@ -4,6 +4,7 @@ description: 'This resource contains the information about the logarithmic scale
   and construction of slide rule. '
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/ec-050-recreate-experiments-from-history-inform-the-future-from-the-past-galileo-january-iap-2010/d7195e67dba5170cfc4251681edd2a48_MITEC_050IAP10_pro05.pdf
 file_type: application/pdf
+parent_uid: 33779d0d-2272-95f4-fd73-3176ecd0621c
 resourcetype: Document
 title: Project 5
 uid: d7195e67-dba5-170c-fc42-51681edd2a48
